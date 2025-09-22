@@ -55,10 +55,13 @@
   </a>
   <a href="https://www.instagram.com/meani_ilu3000/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="meani-instagram" />
-  </a>
-  <a href="mailto:ducnghiabachong@gmail.com" target="top">
+<div align="center">
+  <a href="mailto:ducnghiabachong@gmail.com">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="meani-email" />
   </a>
 </div>
+
+</div>
+
 
 
