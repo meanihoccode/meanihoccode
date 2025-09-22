@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="trungquandev.svg" width="1200" alt="meaniso1" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -66,15 +66,20 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/meani.1212/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="meani-facebook" />
   </a>
   <a href="https://www.instagram.com/meani_ilu3000/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="meani-instagram" />
   </a>
   <a href="mailto:ducnghiabachong@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="meani-email" />
   </a>
 </div>
 
 <br>
-
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="trungquandev-quotes.svg" width="846" height="150" alt="meanideptrai" />
+</a>
