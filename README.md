@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
   <img src="meani.svg" width="1200" alt="meaniso1" />
 </a>
@@ -83,3 +83,4 @@
 <a href="#" target="_blank">
   <img src="meani-quotes.svg" width="846" height="150" alt="meanideptrai" />
 </a>
+
