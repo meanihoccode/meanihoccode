@@ -53,10 +53,10 @@
 <br>
 <div align=center>
   <a href="#" title="meani">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meanihoccode&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&t=1321" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meanihoccode&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&t=123" />
   </a>
   <a href="#" title="meani">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=meanihoccode&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true&t=1232" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=meanihoccode&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true&t=23" />
   </a>
 </div>
 
@@ -86,6 +86,7 @@
     <img src="meani-quotes.svg" width="846" height="150" alt="meanideptrai" />
   </a>
 </div>
+
 
 
 
