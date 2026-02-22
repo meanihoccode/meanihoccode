@@ -46,6 +46,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/SpringBoot-282C34?logo=SpringBoot&logoColor=green" alt="SpringBoot logo" title="SpringBoot" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=Python" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
 
 <!-- <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -86,6 +88,7 @@
     <img src="meani-quotes.svg" width="846" height="150" alt="meanideptrai" />
   </a>
 </div>
+
 
 
 
