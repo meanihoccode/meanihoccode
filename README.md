@@ -36,6 +36,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=Java" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/FastAPI-282C34?logo=FastAPI" alt="FastAPI logo" title="FastAPI" height="25" /></span>
+&nbsp;
 <!-- <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -75,6 +77,7 @@
     <img src="meani-quotes.svg" width="846" height="150" alt="meanideptrai" />
   </a>
 </div>
+
 
 
 
