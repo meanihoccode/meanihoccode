@@ -62,7 +62,7 @@
   <a href="https://www.instagram.com/meani_ilu3000/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="meani-instagram" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZcRKDmdmKxsTGKDZtpHWWgzDmWLwZTcBqKJbPKvbxTKrZzJsjdmgLpVHRMwmtZwmdbCnV" target="top">
+  <a href="#" onclick="openMail(event)" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="meani-email" />
   </a>
 </div>
@@ -77,6 +77,16 @@
     <img src="meani-quotes.svg" width="846" height="150" alt="meanideptrai" />
   </a>
 </div>
+<script>
+  function openMail (event) {
+    event.preventDefault(); 
+    window.open(
+      "https://mail.google.com/mail/?view=cm&fs=1&to=ducnghiabachong@gmail.com",
+      "_blank"
+    );
+  }
+</script>
+
 
 
 
